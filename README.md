@@ -4,4 +4,4 @@ In this repo is the metadata for the 350 or so CDs and vinyl currently housed in
 
 Click [here] (https://mnhiphoparchive.wordpress.com/ "Minnesota Hip-Hop Archive") for more information on the Minnesota Hip-Hop Archive.
 
-If you do something cool with the data, let me know with a comment!
+If you do something cool with the data, let me know!
